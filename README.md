@@ -12,9 +12,9 @@ HI! I’m a data enthusiast with a focus on applying acquired knowledge to devel
 
 ## 📚 Featured Projects
 
-- CDMX Property Prices and Rent Analysis
-A study on the relationship between property prices and gentrification in Mexico City using visualization techniques and statistical analysis.
+- Web Loan Application Django
+Web Loan Application Django is a web application for loan requests developed using the Django framework
 
-- Content-Based Movie Recommender
-Development of a movie recommendation system using cosine similarity to compare tags and generate personalized recommendations.
+- Employee Attrition Analysis: Unveiling Insights for Talent Retention
+This project utilizes data analysis techniques and machine learning models to study the employee attrition rate in an organization. An exploratory data analysis is performed, important relationships between variables are visualized, and predictive models are built to estimate the economic impact of employee turnover.
 
